@@ -1,0 +1,5 @@
+This file is just to give credits to all the helpful websites and the guides.
+
+First of all the API for this is used via the website --> https://pokeapi.co/
+Secondly, the language --> Python 3.x.x
+And the "requests" module for all the api operations.
